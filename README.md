@@ -24,8 +24,8 @@ git clone https://github.com/RodPaDev/kicad-keyboard-template.git <PROJECT_NAME>
 
 cd <PROJECT_NAME>
 
-git submodules init
-git submodules update
+git submodule init
+git submodule update
 ```
 
 2. Rename files:

@@ -22,6 +22,8 @@ git clone git@github.com:RodPaDev/kicad-keyboard-template.git <PROJECT_NAME>
 or
 git clone https://github.com/RodPaDev/kicad-keyboard-template.git <PROJECT_NAME>
 
+cd <PROJECT_NAME>
+
 git submodules init
 git submodules update
 ```

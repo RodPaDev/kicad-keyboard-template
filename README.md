@@ -18,9 +18,9 @@ You need to install [Git](https://git-scm.com/) for the next step.
 1. Clone this project and the submodules
 
 ```
-git clone git@github.com:RodPaDev/kicad-keyboard-template.git <PROJECT_NAME>
+git clone --depth 1 git@github.com:RodPaDev/kicad-keyboard-template.git <PROJECT_NAME>
 or
-git clone https://github.com/RodPaDev/kicad-keyboard-template.git <PROJECT_NAME>
+git clone --depth 1 https://github.com/RodPaDev/kicad-keyboard-template.git <PROJECT_NAME>
 
 cd <PROJECT_NAME>
 

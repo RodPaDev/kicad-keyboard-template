@@ -1,0 +1,36 @@
+# Mac Specific
+.DS_Store
+
+# Gerbers
+.zip
+gerbers
+
+# BOM and 3D exports
+bom
+3d
+
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_prl
+*.sch-bak
+*~
+_autosave-*
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
+
+# Netlist files (exported from Eeschema)
+*.net
+
+# Autorouter files (exported from Pcbnew)
+*.dsn
+*.ses
+
+# Exported BOM files
+bom
+*.xml
+*.csv
